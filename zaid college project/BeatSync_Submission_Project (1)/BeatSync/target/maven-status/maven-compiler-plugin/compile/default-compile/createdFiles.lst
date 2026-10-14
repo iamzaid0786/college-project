@@ -1,0 +1,9 @@
+com\beatsync\app\repository\SongRepository.class
+com\beatsync\app\service\SongNotFoundException.class
+com\beatsync\app\BeatSyncApplication.class
+com\beatsync\app\controller\HealthController.class
+com\beatsync\app\controller\ApiExceptionHandler.class
+com\beatsync\app\controller\SongController$SongRequest.class
+com\beatsync\app\controller\SongController.class
+com\beatsync\app\model\Song.class
+com\beatsync\app\service\SongService.class
